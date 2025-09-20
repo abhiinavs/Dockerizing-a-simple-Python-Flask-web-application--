@@ -1,0 +1,1 @@
+This project demonstrates containerization of a Python Flask web application using Docker. A lightweight Flask app was developed and deployed inside a Docker container with a custom Dockerfile. The application was made accessible by mapping container ports to the host system.
